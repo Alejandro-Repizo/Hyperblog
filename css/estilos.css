@@ -33,6 +33,7 @@ body{
     padding: 0 0 0 1em;
     font-size: 0.8em;
 }
+<<<<<<< HEAD
 
 #footer{
     background-color: #333;
@@ -41,4 +42,11 @@ body{
     font-weight: bold;
     font-size: 15px;
     padding: 10px
+=======
+#footer{
+    background-color: #333;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+>>>>>>> footer
 }
